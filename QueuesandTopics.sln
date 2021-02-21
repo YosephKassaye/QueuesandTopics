@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerViceBusProducer", "SerViceBusProducer\SerViceBusProducer.csproj", "{EDADBB2E-2DAE-4242-A5C5-3BC7F8EB44EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusConsumer", "ServiceBusConsumer\ServiceBusConsumer.csproj", "{3439671A-9C76-49AB-9896-ED87A343A114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDADBB2E-2DAE-4242-A5C5-3BC7F8EB44EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDADBB2E-2DAE-4242-A5C5-3BC7F8EB44EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDADBB2E-2DAE-4242-A5C5-3BC7F8EB44EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDADBB2E-2DAE-4242-A5C5-3BC7F8EB44EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3439671A-9C76-49AB-9896-ED87A343A114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3439671A-9C76-49AB-9896-ED87A343A114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3439671A-9C76-49AB-9896-ED87A343A114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3439671A-9C76-49AB-9896-ED87A343A114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {383439D2-6F4E-4174-A862-3A244D145893}
+	EndGlobalSection
+EndGlobal
